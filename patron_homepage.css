@@ -1,0 +1,77 @@
+﻿body {
+    margin:0;
+    padding:0;
+    
+}
+
+#banner{
+    width:100%;
+    height:400px;
+    background-image:url('images/cover-pic.jpg');
+    background-repeat:no-repeat;
+    background-size:cover;
+    background-attachment:fixed;
+    margin-top:-20px;
+}
+
+#banner .jumbotron{
+    background-color:transparent;
+}
+
+#banner .jumbotron h1{
+    font-family:'Century Gothic';
+    font-size:3em;
+    color:white;
+    margin-top:2em;
+}
+
+#banner .jumbotron h3{
+    font-family:Papyrus;
+    color:white;
+
+}
+
+#about h1{
+    font-family:'Showcard Gothic';
+}
+
+#about{
+    padding:2em 2em;
+}
+
+#about #content p{
+    font-family:Gabriola;
+    font-size:2em;
+    margin-top:2em;
+}
+
+#about #content #collapse{
+    margin:3em auto;
+}
+
+#about #content #collapse .panel-body{
+    font-family:'Century Gothic';
+    font-size:1.1em;
+}
+
+#about #content #collapse .panel-heading{
+    background-color:black;
+    color:white;
+}
+
+#separator{
+    height:300px;
+    width:100%;
+    background-image:url('images/school children.jpg');
+    background-attachment:fixed;
+    background-repeat:no-repeat;
+    background-position:center;
+}
+
+#footer{
+    background-color:#333;
+    height:300px;
+    color:white;
+    padding:2em 2em;
+    font-family:'Century Gothic';
+}

@@ -1,0 +1,27 @@
+﻿body {
+    margin:0;
+    padding:0;
+}
+
+#banner{
+    background-color:#333;
+    margin-top:-20px;
+}
+
+#banner .jumbotron{
+    background-color:transparent;
+    color:white;
+    font-family:'Century Gothic';
+}
+
+#head{
+    font-family:Papyrus;
+}
+
+#content{
+    font-family:'Century Gothic';
+}
+
+#content h5{
+    line-height:4em;
+}

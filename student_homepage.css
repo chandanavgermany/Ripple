@@ -1,0 +1,66 @@
+﻿body {
+    margin:0;
+    padding:0;
+}
+
+#banner{
+    height:400px;
+    width:100%;
+    background-image:url('images/color-fingers.png');
+    background-color:black;
+    background-position:center;
+    background-repeat:no-repeat;
+    margin-top:-20px;
+    background-attachment:fixed;
+    color:white;
+    text-align:center;
+    padding-top:2em;
+}
+
+#banner h1{
+    font-family:'Century Gothic';
+    font-size:3em;
+}
+
+#banner h3{
+    font-family:Papyrus;
+}
+
+#about{
+    margin-bottom:5em;
+}
+
+#about .jumbotron{
+    background-color:transparent;
+}
+
+#about .jumbotron h1{
+    font-family:'showcard Gothic';
+    font-size:3em;
+}
+
+#about #photos{
+    font-family:'Century Gothic';
+    letter-spacing:2px;
+}
+
+#about #details{
+    font-family:'Century Gothic';
+    margin:2em auto;
+}
+
+#about #details ul {
+    list-style-type:decimal;
+}
+
+#about #details ul li{
+    font-size:1.2em;
+}
+
+#footer{
+    background-color:#333;
+    height:300px;
+    color:white;
+    padding:2em 2em;
+    font-family:'Century Gothic';
+}

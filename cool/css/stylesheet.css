@@ -1,0 +1,132 @@
+/* CSS Basic Document */
+body
+{
+margin:0px auto;
+padding:0px;
+background:url(../images/bg.jpg) left top #505050;
+}
+.main_table
+{
+border-left:1px solid #FFFFFF;
+border-right:1px solid #FFFFFF;
+background-color:#505050;
+color:#CCCCCC;
+}
+.inside_table
+{
+border-left:1px solid #CCCCCC;
+border-right:1px solid #CCCCCC;
+}
+.logo
+{
+margin-left:248px;
+margin-top:25px;
+}
+.body_padding
+{
+padding:20px 10px;
+}
+.img
+{
+border:1px solid #CCCCCC;
+}
+.footer_padding
+{
+padding:0px 10px;
+}
+
+
+
+
+
+/* CSS Background image Document */
+.body_bg
+{
+background:url(../images/body_bg.jpg) left top repeat-x;
+}
+.header-image
+{
+background:url(../images/header.jpg) center top no-repeat;
+height:150px;
+}
+.menu_bg
+{
+background:url(../images/menu_bg.gif) left top repeat-x;
+height:34px;
+}
+.menu_title_bg
+{
+background:url(../images/menu_title_bg.gif) left top no-repeat;
+height:29px;
+padding-left:30px;
+}
+.left_menu_bg
+{
+background:url(../images/left_menu_bg.gif) left top no-repeat;
+height:26px;
+padding-left:30px;
+}
+.body_line
+{
+background:url(../images/body_line.gif) left top repeat-x;
+height:40px;
+}
+.left_menu_bg1
+{
+background:url(../images/left_menu_bg1.gif) left top no-repeat;
+height:26px;
+padding-left:30px;
+}
+
+
+
+
+
+/* CSS Text Document */
+body{
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 11px;
+	font-style: normal;
+	line-height: 13px;
+	font-weight: normal;
+	font-variant: normal;
+	text-transform: none;
+	color: #CCCCCC;
+	text-decoration: none;
+}
+.menu_link{
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 11px;
+	font-style: normal;
+	line-height: 34px;
+	font-weight: bold;
+	font-variant: normal;
+	text-transform: none;
+	color: #cccccc;
+	background-color:inherit;
+	text-decoration: none;
+}
+.menu_link:hover
+{
+color:#FFFFFF;
+text-decoration:none;
+background-color:inherit;
+}
+.left_menu_link{
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 11px;
+	font-style: normal;
+	line-height: 26px;
+	font-weight: bold;
+	font-variant: normal;
+	text-transform: none;
+	color: #515151;
+	background-color:inherit;
+	text-decoration: none;
+}
+.left_menu_link:hover
+{
+color:#CC0000;
+text-decoration:none;
+background-color:inherit;
+}

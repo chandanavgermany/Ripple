@@ -1,0 +1,19 @@
+﻿body {
+    margin:0;
+    padding:0;
+    font-family:'Century Gothic';
+    text-align:center;
+    background-image:url('images/twitter-bg.jpg');
+}
+
+#form .container-fluid .jumbotron h3{
+    font-family:'Century Gothic';
+    font-size:3em;
+    color:white;
+
+}
+
+#form .container-fluid .jumbotron{
+     background-color:#333;
+
+}

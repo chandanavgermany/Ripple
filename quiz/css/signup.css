@@ -1,0 +1,53 @@
+﻿body {
+    padding:0;
+    margin:0;
+   background-color:black;
+    background-size:cover;
+    background-position:center;
+    background-repeat:no-repeat;
+    overflow-x:hidden;
+}
+
+#header .jumbotron
+{
+    background-color:transparent;
+    color:white;
+    font-family:'Century Gothic';
+    padding:2em;
+}
+
+#header .jumbotron h1
+{
+    font-family:'Century Gothic';
+    font-size:4em;
+    color:white;
+}
+
+#form{
+    margin-bottom:3%;
+}
+
+#form .container .jumbotron{
+    font-family:'Century Gothic';
+    color:white;
+    background-color:transparent;
+}
+#form .container{
+    padding:10px;
+    background-color:#333;
+    border-radius:5px;
+}
+
+#form .container input[type=text],#form .container input[type=password],#form .container input[type=email],#form .container input[type=tel]
+{
+    font-family:'Century Gothic';
+    text-align:center;
+    font-size:1em;
+    height:3em;
+}
+
+#form .container textarea
+{
+    font-family:'Century Gothic';
+    text-align:center;
+}
